@@ -1,2 +1,2 @@
 import sawa
-sawa.Vyper()
+sawa.PORN()
