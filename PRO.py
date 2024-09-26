@@ -1,2 +1,2 @@
 import xnx
-sawa.PORN()
+xnx.PORN()
