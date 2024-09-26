@@ -1,1 +1,2 @@
 import sawa
+sawa.Vyper()
