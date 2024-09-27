@@ -1,2 +1,2 @@
-import xnx
-xnx.PORN()
+import sex
+sex.PORN()
