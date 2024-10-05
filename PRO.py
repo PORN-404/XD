@@ -1,2 +1,2 @@
-import SAWA
-SAWA.Vyper()
+import Sawa
+Sawa.Vyper()
