@@ -1,2 +1,1 @@
-import Sawa
-Sawa.Vyper()
+import sawa
